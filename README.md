@@ -2,7 +2,7 @@
 
 ## Multi-agent Enterprise-Grade SaaS Financial Planner
 
-![Course Image](assets/alex.png)
+(assets/alex.png)
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view it in formatted glory._
 
@@ -31,7 +31,4 @@ _If you're looking at this in Cursor, please right click on the filename in the 
 - On Week 4 Day 3, we will do 7_frontend
 - On Week 4 Day 4, we will do 8_enterprise
 
-#### Keep in mind
 
-- Please submit your community_contributions, including links to your repos, in the production repo community_contributions folder
-- Regularly do a git pull to get the latest code
